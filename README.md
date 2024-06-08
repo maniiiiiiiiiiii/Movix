@@ -17,7 +17,7 @@ Movix is a web application that allows users to explore movies and TV shows, pro
 Before getting started, make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/bali-movix.git
+   git clone [https://github.com/maniiiiiiiiiiii/Movix.git]
 
 2. **Install dependencies:**
    npm install
